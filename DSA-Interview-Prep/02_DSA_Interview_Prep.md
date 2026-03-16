@@ -6,7 +6,105 @@
 > **Previous:** [01_DSA_Masterguide.md](./01_DSA_Masterguide.md) | **Next:** [03_DSA_Practice_Repository.md](./03_DSA_Practice_Repository.md)
 
 ---
+## 🎯 What You Got (~90 Pages):
 
+### ONLY What Actually Gets Asked in 2026:
+
+✅ **What to Study vs Skip** — Saves 40% time by cutting irrelevant topics  
+
+✅ **Complexity Cheat Sheet** — Every DS + algorithm in one table  
+
+✅ **Arrays & Strings (15%)** — The most asked topic in every round  
+
+✅ **Linked Lists (10%)** — Reversal, cycle, merge — 3 patterns cover 90%  
+
+✅ **Stacks & Queues (8%)** — Monotonic stack is the hidden gem  
+
+✅ **Hashing (12%)** — Frequency maps solve half of all array problems  
+
+✅ **Trees & BST (15%)** — Traversals + recursion + path problems  
+
+✅ **Heaps (5%)** — K-th element pattern appears constantly  
+
+✅ **Graphs (10%)** — BFS/DFS templates that work everywhere  
+
+✅ **Sorting & Searching (8%)** — Binary search variants are heavily tested  
+
+✅ **Dynamic Programming (12%)** — Top 10 DP problems cover 80% of DP asked  
+
+✅ **50 Most Asked Interview Questions** — Detailed answers + approach  
+
+✅ **14 Must-Know Patterns** — Code templates for every major pattern  
+
+✅ **How to Approach ANY Coding Problem** — The 7-step framework  
+
+✅ **2-Week Study Plan** — Day-by-day with problem targets  
+
+✅ **Readiness Checklist + Rapid Review** — Know when you're ready  
+
+---
+
+## 🔥 Key Features:
+
+### 1. What to Skip (Save Time!):
+
+❌ AVL rotations in detail (only concept level needed — never implement in interviews)  
+
+❌ Red-Black tree implementation (concept only)  
+
+❌ B-trees and B+ trees (only asked for DB systems courses, not DSA rounds)  
+
+❌ Splay trees and other exotic trees (not asked)  
+
+❌ Bellman-Ford algorithm code (Dijkstra covers 90% of graph interview questions)  
+
+❌ Floyd-Warshall implementation (only for competitive programming)  
+
+❌ Suffix trees/arrays (competitive programming only)  
+
+❌ Segment tree with lazy propagation (advanced competitive — not interviews)  
+
+❌ Number theory beyond GCD + primes + modular (not in typical interviews)  
+
+❌ Randomized algorithms (concept only)  
+
+❌ String matching algorithms (KMP, Rabin-Karp) — know concept, not implementation  
+
+❌ Amortized analysis proofs — know the result, not the formal proof  
+
+---
+
+### 2. What to MASTER (Asked 80%+ of the time):
+
+⭐⭐⭐⭐⭐ **Arrays + Two Pointers + Sliding Window** (40% of all problems!)  
+
+⭐⭐⭐⭐⭐ **HashMap/HashSet patterns** (solves 50% of array problems instantly!)  
+
+⭐⭐⭐⭐⭐ **Binary Search** (not just on arrays — on answer space!)  
+
+⭐⭐⭐⭐⭐ **Tree traversals + recursion** (every tree problem uses one of 3 patterns)  
+
+⭐⭐⭐⭐⭐ **BFS/DFS templates** (solve ALL graph problems with small modifications)  
+
+⭐⭐⭐⭐⭐ **Big O analysis** (asked in every single interview round)  
+
+⭐⭐⭐⭐ **Linked List — reversal + cycle + merge** (3 patterns cover 90% of LL problems)  
+
+⭐⭐⭐⭐ **Stack — valid parentheses + monotonic stack** (appears constantly)  
+
+⭐⭐⭐⭐ **Dynamic Programming — top 10 classics** (coin change, LCS, knapsack, LIS)  
+
+⭐⭐⭐⭐ **Merge sort + Quick sort** (understand deeply, not just memorize)  
+
+⭐⭐⭐ **Heap/Priority Queue** (K-th largest/smallest appears in every company)  
+
+⭐⭐⭐ **Backtracking** (subsets, permutations, combination sum)  
+
+⭐⭐⭐ **Topological Sort + Union Find** (graph-heavy companies)  
+
+⭐⭐ **Trie** (string-heavy problems, autocomplete scenarios)  
+
+---
 
 ## 📊 Coverage Breakdown:
 
