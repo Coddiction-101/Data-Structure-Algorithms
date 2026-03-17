@@ -1,10 +1,5 @@
 ## 📄 01_DSA_Masterguide.md
 
-Building `01_DSA_Masterguide.md` now — every data structure, every algorithm, from zero.  
-This is the biggest file.
-
-`01_DSA_Masterguide.md` is done.
-
 ---
 
 ## 📦 What's Inside
